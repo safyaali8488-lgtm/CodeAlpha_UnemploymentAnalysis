@@ -1,3 +1,10 @@
+# 📊 Unemployment Analysis with Python
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![CodeAlpha](https://img.shields.io/badge/Internship-CodeAlpha-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 # CodeAlpha - Unemployment Analysis with Python
 
 ## 📌 Project Overview
