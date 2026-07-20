@@ -122,3 +122,10 @@ CodeAlpha Data Science
 ## Rural vs Urban Unemployment Comparison
 
 ![Rural vs Urban Comparison](screenshots/rural_urban_comparison.png)
+---
+
+# 💻 Notebook Preview
+
+This screenshot shows a portion of the Jupyter Notebook used for data analysis and visualization.
+
+![Notebook Preview](screenshots/notebook_preview.png)
