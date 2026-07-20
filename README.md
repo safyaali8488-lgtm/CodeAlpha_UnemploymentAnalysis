@@ -102,4 +102,23 @@ CodeAlpha_UnemploymentAnalysis/
 
 **Safya Ali**
 
-CodeAlpha Data Science Intern
+CodeAlpha Data Science 
+---
+
+# 📸 Project Screenshots
+
+## Average Unemployment Rate by Region
+
+![Average Unemployment Rate by Region](screenshots/state_unemployment.png)
+
+---
+
+## Monthly Average Unemployment Rate
+
+![Monthly Average Unemployment Rate](screenshots/monthly_trend.png)
+
+---
+
+## Rural vs Urban Unemployment Comparison
+
+![Rural vs Urban Comparison](screenshots/rural_urban_comparison.png)
